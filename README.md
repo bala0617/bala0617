@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bala0617
+- 👋 Hi, I’m balaji
 - 👀 I’m interested in Programming
 -  🌱 I’m currently learning Java Framework
 - 💞️ I’m looking to collaborate on Real Time Projects
